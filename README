@@ -1,0 +1,21 @@
+VIC Grading Tools
+
+Authors
+===========================================================
+Steven Karas
+
+Description
+===========================================================
+This project is the result of a week of boredom between semesters. I wrote it to rapidly test VIC,
+a simplified computing model developed by Prof. Shimon Schocken and Mr. Yotam Harchol.
+
+Caveat Emptor
+===========================================================
+Currently, the project is not in good condition, lacks proper documentation and has a horrible API.
+Also, it doesn't have a GUI. These are things that are in the works, and hopefully will be finished
+by October 2010.
+
+Usage
+===========================================================
+Run the CLI, passing a parameter for the path to the directory which contains each students programs
+and the testsuite definitions. I will add an example directory with the next version.
